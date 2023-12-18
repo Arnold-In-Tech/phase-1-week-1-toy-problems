@@ -85,8 +85,9 @@ function NSSFDeductions(total_income){
     
     if (total_income < 18000){
         return 0;
-    }else if (total_income >= 18000){
-        deductions = 18000 * 0.06;     // 6% Tax Deduction on pensionable pay
+    }else{
+        // 6% Tax Deduction on minimum 18,000 pensionable pay 
+        deductions = 18000 * 0.06;     
         return deductions;
     }                   
 }
