@@ -3,8 +3,9 @@
 Simplified challenges to test and demonstrate problem solving in JavaScript
 
 ![Languages JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-![GitHub forks](https://img.shields.io/github/forks/Arnold-In-Tech/phase-1-week-1-toy-problems)
 
 
 ## Challenge 1
