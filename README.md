@@ -2,9 +2,9 @@
 
 Simplified challenges to test and demonstrate problem solving in JavaScript
 
-![Licence MIT](https://img.shields.io/github/license/Arnold-In-Tech/phase-1-week-1-toy-problems)
-[![Languages JavaScript]](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![Languages JavaScript]](https://img.shields.io/badge/-Javascript)
+![License MIT](https://img.shields.io/github/license/Arnold-In-Tech/phase-1-week-1-toy-problems)
+![Languages JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Languages JavaScript](https://img.shields.io/badge/-Javascript)
 ![GitHub forks](https://img.shields.io/github/forks/Arnold-In-Tech/phase-1-week-1-toy-problems)
 
 ## Challenge 1
