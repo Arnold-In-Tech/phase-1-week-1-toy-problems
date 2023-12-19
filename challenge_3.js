@@ -97,10 +97,10 @@ function NSSFDeductions(total_income){
 // load the prompt-sync module and call it
 const prompt = require("prompt-sync")();
 
-// retrieve user for input
+// retrieve gross pay from user input
 let grossPay = parseFloat(prompt("Gross Pay?: "));
 
-// retrieve user for input
+// retrieve Contribution Benefit from user input
 let benefit = parseFloat(prompt("Contribution Benefit: "));
 
 // Compute Net Salary
